@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 from extrairDicionarios import extrair_lista_de_dicionarios
 
 atlas = 'aparc'
+#ATUALIZE O CAMINHO DE "caminho_valores" COM O SEU ARQUIVO.
+#LEMBRE DE DEIXAR "data/" NO INÍCIO DO CAMINHO 
 caminho_valores = 'data/20260606_214846_SUVR_min.csv'
 caminho_mapeamento = 'dicionario/yabplot_freesurfer_mapping.csv'
 
